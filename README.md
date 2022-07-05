@@ -1,3 +1,5 @@
 # CIS1015
 
-This is a rep for all coursework related to CIS1015 @ NSULA.
+This is a repo for all coursework related to CIS1015 @ NSULA.
+
+Update GIT settings
